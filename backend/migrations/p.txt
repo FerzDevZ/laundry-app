@@ -1,0 +1,12 @@
+ ✅ Sequelize Seeder Script (Command)
+ Jalankan ini untuk generate seeders di terminal:
+ npx sequelize-cli seed:generate --name seed-job
+ npx sequelize-cli seed:generate --name seed-unit
+ npx sequelize-cli seed:generate --name seed-category
+ npx sequelize-cli seed:generate --name seed-employee
+ npx sequelize-cli seed:generate --name seed-customer
+ npx sequelize-cli seed:generate --name seed-service
+ npx sequelize-cli seed:generate --name seed-package
+ npx sequelize-cli seed:generate --name seed-detail-package
+ npx sequelize-cli seed:generate --name seed-pickup-request
+ npx sequelize-cli seed:generate --name seed-notification
